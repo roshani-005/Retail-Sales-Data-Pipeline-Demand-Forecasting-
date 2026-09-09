@@ -1,8 +1,8 @@
 # Materials Management & Supply Planning Analytics
 
-## Eaton Intern – Materials aligned project
+## Materials aligned project
 
-This project is designed around the Materials Management / Supply Chain / Manufacturing Operations responsibilities in the supplied Eaton Intern–Materials job description. **SQL is the core analytics layer; Excel is not required.**
+This project is designed around the Materials Management / Supply Chain / Manufacturing Operations responsibilities in the supplied Eaton Intern–Materials job description. SQL is the core analytics layer.
 
 ### Project story
 
