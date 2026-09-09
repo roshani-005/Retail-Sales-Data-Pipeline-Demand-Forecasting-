@@ -1,0 +1,6 @@
+database:
+  path: "data/warehouse/materials.db"
+paths:
+  raw: "data/raw"
+  processed: "data/processed"
+  artifacts: "artifacts"
